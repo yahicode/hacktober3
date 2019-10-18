@@ -1,1 +1,1 @@
-Bruce Wayne is batman.
+bruce

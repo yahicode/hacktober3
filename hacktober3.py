@@ -19,4 +19,10 @@ splitArr(arr, n, position)
   
 for i in range(0, n):  
     print(arr[i], end = ' ') 
+    
+    print('i did this')
+   Print('something else') 
    
+
+  # Output:
+  # 5 6 52 36 12 10 

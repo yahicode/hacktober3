@@ -1,1 +1,3 @@
-print("Thanks for hacktober")
+name=input("Please enter your name: ")
+print("Thanks for HacktoberFest",name)
+

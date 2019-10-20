@@ -1,4 +1,5 @@
 #bindal
+#python code for dice roll using random python function
 import random
 min = 1
 max = 6

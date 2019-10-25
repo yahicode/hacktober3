@@ -2,7 +2,7 @@
 #python code for dice roll using random python function
 import random
 min = 1
-max = 6
+max = (5+1)
 
 roll_again = "yes"
 

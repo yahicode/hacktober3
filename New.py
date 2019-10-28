@@ -1,5 +1,1 @@
-#Python
-a="Hacktober"
-for i in a: # To print Hacktober
-  print( i)
-#Happy coding
+print ("The shuffled list is : " +  str(test_list)) 

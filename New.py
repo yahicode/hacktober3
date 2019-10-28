@@ -1,1 +1,1 @@
-Python
+print ("The shuffled list is : " +  str(test_list)) 

@@ -1,3 +1,1 @@
-enjoy
-the
-hacktober
+name=input("Please enter your name: ")

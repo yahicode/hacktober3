@@ -1,2 +1,1 @@
-enjoy
-sure
+name=input("Please enter your name: ")

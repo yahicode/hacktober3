@@ -1,1 +1,1 @@
-print( "Hello people !!\n Its Hacktober Already ")
+name=input("Please enter your name: ")

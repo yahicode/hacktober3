@@ -3,7 +3,7 @@ n1 = 0
 n2 = 1
 count = 0
 if nterms <= 0:
-   print("Please enter a positive integer")
+   print("Please enter a positive integer") #For Taking input
 elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
    print(n1)

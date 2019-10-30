@@ -1,5 +1,6 @@
 nterms = 10
 n1 = 0
+print("hello")
 n2 = 1
 count = 0
 if nterms <= 0:
